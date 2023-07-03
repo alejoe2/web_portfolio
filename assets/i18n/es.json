@@ -1,0 +1,32 @@
+{
+    "General": {
+        "goToGitHub": "Ir a Github",
+        "send": "Enviar"
+    },
+    "Presentation": {
+        "title": "HOLA, MI NOMBRE ES",
+        "myName": "Luis Echeverria",
+        "infoPre": "Creo cosas programando.",
+        "info":"Un desarrollador de aplicaciones centrado en la interfaz de aplicaciones móviles y aplicaciones web que conduce al éxito del producto en general."
+    },
+    "AboutMe": {
+        "title": "01.Acerca de mí",
+        "infoPreAboutMe": "Aquí encontrarás más información sobre mí, lo que hago y mis habilidades actuales, principalmente en términos de programación y tecnología.",
+        "titleSkills": "Mis habilidades",
+        "infoAboutMe":"Soy ingeniero electrónico apasionado por la programación de aplicaciones móviles. A través de mi sólida experiencia en ingeniería electrónica y mi amor por la tecnología, encontré mi pasión en el desarrollo de aplicaciones móviles.\n\n Mi enfoque es crear aplicaciones móviles innovadoras utilizando herramientas como Flutter. Disfruto convirtiendo ideas en aplicaciones reales, colaborando con equipos multidisciplinares y aprovechando al máximo las capacidades de los dispositivos móviles.\n\n Mi objetivo es seguir creciendo y aprendiendo en el campo del desarrollo de aplicaciones móviles, en constante búsqueda de nuevas tecnologías y tendencias. para ofrecer soluciones modernas y creativas. Estoy emocionado de explorar las infinitas posibilidades que ofrece el mundo de las aplicaciones móviles y contribuir a mejorar la vida de las personas a través de la tecnología.\n\n Si buscas un ingeniero electrónico con experiencia en el desarrollo de aplicaciones móviles, estoy listo para tomar en nuevos desafíos y colaborar en proyectos emocionantes. ¡Espero trabajar con usted y crear aplicaciones móviles que marquen la diferencia!"
+    },
+    "Works": {
+        "title": "02.Trabajos",
+        "titleWebDash": "PANEL WEB",
+        "infoWebDash": "Esta aplicación web Flutter creada por para ofrece a los usuarios la posibilidad de acceder a un panel personalizado a través de un sistema de inicio de sesión. El panel incluye un menú con opciones de lista, un perfil de usuario y una variedad de íconos para mejorar la experiencia del usuario.\n\n Una vez dentro, los usuarios pueden navegar fácilmente por el menú, que les ofrece diferentes opciones para administrar y organizar su personalización. listas.\n\n Además, la aplicación incluye un perfil de usuario donde los usuarios pueden ver y editar su información personal, como el nombre, la foto de perfil y otros detalles relevantes.",
+        "titleAppMovies": "APP PELICULAS",
+        "infoAppMovies": "La aplicación permite a los usuarios explorar una amplia selección de películas, con la capacidad de ver fotos de las películas, información relevante y también fotos de los actores.\n\n Al integrar la API de películas, la aplicación accede a una completa y actualizada base de datos actualizada, asegurando que los usuarios siempre tengan acceso a la información más reciente. Los usuarios pueden buscar películas por título, género o incluso por el nombre de un actor en particular, lo que facilita la exploración y la búsqueda de películas específicas.\n\n La interfaz de usuario intuitiva y atractiva proporciona una experiencia de usuario fluida y agradable. Los usuarios pueden desplazarse por la lista de películas, ver fotos de las películas y los actores, así como leer sinopsis y detalles adicionales. Además, la aplicación ofrece opciones de clasificación y filtrado para ayudar a los usuarios a encontrar películas según sus preferencias personales."
+    },
+    "Contact": {
+        "title": "03.Cantacto",
+        "name": "Nombre",
+        "email": "Email",
+        "message": "Mensaje"
+    }
+    
+}

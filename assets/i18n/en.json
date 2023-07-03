@@ -1,0 +1,31 @@
+{
+    "General": {
+        "goToGitHub": "Go to Github",
+        "send": "Send"
+    },
+    "Presentation": {
+        "title": "HI, MY NAME IS",
+        "myName": "Luis Echeverria",
+        "infoPre": "I create things by programming.",
+        "info":"A Frontend focused App Developer building of Apps Mobile and Web Applications that leads to the success of the overall product"
+    },
+    "AboutMe": {
+        "title": "01.About Me",
+        "infoPreAboutMe": "Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology",
+        "titleSkills": "My Skills",
+        "infoAboutMe":"    I am an electronic engineer with a passion for programming mobile applications. Through my strong background in electronic engineering and my love of technology, I have found my passion in mobile app development.\n\n    My focus is on creating innovative mobile apps using tools like Flutter. I enjoy turning ideas into real applications, collaborating with multidisciplinary teams and making the most of the capabilities of mobile devices.\n\n    My goal is to continue growing and learning in the field of mobile application development, constantly looking for new technologies and trends to offer modern and creative solutions. I am excited to explore the endless possibilities offered by the world of mobile applications and contribute to improving people's lives through technology.\n\n    If you're looking for an electronics engineer with experience in mobile app development, I'm ready to take on new challenges and collaborate on exciting projects. I look forward to working with you and creating mobile apps that make a difference!"
+    },
+    "Works": {
+        "title": "02.Works",
+        "titleWebDash": "WEB DASHBOARD",
+        "infoWebDash": "    This Flutter web application created by para offers users the ability to access a personalized dashboard through a login system. The dashboard includes a menu with list options, a user profile, and a variety of icons to enhance the user experience.\n\n    Once inside, users can easily navigate through the menu, which offers them different options to manage and organize their custom lists.\n\n    Additionally, the app includes a user profile where users can view and edit their personal information, such as name, profile picture, and other relevant details.",
+        "titleAppMovies": "APP MOVIES",
+        "infoAppMovies": "    The app allows users to browse a wide selection of movies, with the ability to view photos from the movies, relevant information, and also photos of the actors.\n\n    By integrating the Films API, the application accesses a comprehensive and up-to-date database, ensuring that users always have access to the latest information. Users can search for movies by title, genre, or even by the name of a particular actor, making it easy to browse and find specific movies.\n\n    The intuitive and attractive user interface provides a smooth and enjoyable user experience. Users can scroll through the list of movies, view photos of the movies and actors, as well as read synopses and additional details. Additionally, the app offers sorting and filtering options to help users find movies based on their personal preferences."
+    },
+    "Contact": {
+        "title": "03.Contact",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message"
+    }
+}
